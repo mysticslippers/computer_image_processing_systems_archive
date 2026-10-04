@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Время фильтрации при размерах ядра 3, 5 и 7</title>
+  <desc id="desc">На изображении 324 на 223 пикселя при сигмах 1,2 медиана пяти запусков ручного метода составила 0,504, 1,324 и 2,532 секунды. Для OpenCV медианы составили 0,365, 0,408 и 0,475 миллисекунды.</desc>
+  <rect width="900" height="390" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" fill="#111827">
+    <text x="450" y="36" text-anchor="middle" font-size="20" font-weight="600">Время фильтрации и размер ядра</text>
+    <text x="450" y="59" text-anchor="middle" font-size="13" fill="#4b5563">test.png · 324 × 223 · σx = σy = 1,2 · медиана 5 запусков</text>
+
+    <text x="80" y="92" font-size="15" font-weight="600">Ручной метод, с</text>
+    <text x="520" y="92" font-size="15" font-weight="600">OpenCV, мс</text>
+
+    <g stroke="#e5e7eb" stroke-width="1">
+      <path d="M80 110H410 M80 180H410 M80 250H410 M80 320H410"/>
+      <path d="M520 110H850 M520 180H850 M520 250H850 M520 320H850"/>
+    </g>
+    <g font-size="12" fill="#4b5563" text-anchor="end">
+      <text x="71" y="324">0</text><text x="71" y="254">1</text><text x="71" y="184">2</text><text x="71" y="114">3</text>
+      <text x="511" y="324">0</text><text x="511" y="254">0,2</text><text x="511" y="184">0,4</text><text x="511" y="114">0,6</text>
+    </g>
+
+    <g fill="#2563eb">
+      <rect x="113" y="285" width="64" height="35"/>
+      <rect x="203" y="227" width="64" height="93"/>
+      <rect x="293" y="143" width="64" height="177"/>
+    </g>
+    <g fill="#0f766e">
+      <rect x="553" y="192" width="64" height="128"/>
+      <rect x="643" y="177" width="64" height="143"/>
+      <rect x="733" y="154" width="64" height="166"/>
+    </g>
+
+    <g font-size="13" text-anchor="middle">
+      <text x="145" y="278">0,504</text><text x="235" y="220">1,324</text><text x="325" y="136">2,532</text>
+      <text x="585" y="185">0,365</text><text x="675" y="170">0,408</text><text x="765" y="147">0,475</text>
+    </g>
+    <g font-size="13" fill="#4b5563" text-anchor="middle">
+      <text x="145" y="341">3 × 3</text><text x="235" y="341">5 × 5</text><text x="325" y="341">7 × 7</text>
+      <text x="585" y="341">3 × 3</text><text x="675" y="341">5 × 5</text><text x="765" y="341">7 × 7</text>
+    </g>
+  </g>
+</svg>
