@@ -1,5 +1,4 @@
 from math import isfinite, exp
-from statistics import median
 from time import perf_counter
 
 import cv2
@@ -99,30 +98,20 @@ def main():
 
     image_float = image.astype(np.float64)
 
-    blur(image_float, kernel)
-    blur_opencv(image_float, size, sigma_x, sigma_y)
+    start = perf_counter()
+    manual_result = blur(image_float, kernel)
+    manual_time = perf_counter() - start
 
-    manual_times = []
-    opencv_times = []
-    for _ in range(5):
-        start = perf_counter()
-        manual_result = blur(image_float, kernel)
-        manual_times.append(perf_counter() - start)
-
-        start = perf_counter()
-        opencv_result = blur_opencv(image_float, size, sigma_x, sigma_y)
-        opencv_times.append(perf_counter() - start)
+    start = perf_counter()
+    opencv_result = blur_opencv(image_float, size, sigma_x, sigma_y)
+    opencv_time = perf_counter() - start
 
     manual_result = np.asarray(manual_result)
-    manual_time = median(manual_times)
-    opencv_time = median(opencv_times)
 
     difference = np.max(np.abs(manual_result - opencv_result))
     print(f"Максимальная разница между результатами: {difference:.8f}")
-    print("Ручной метод, 5 замеров (с):", ", ".join(f"{t:.4f}" for t in manual_times))
-    print("OpenCV, 5 замеров (с):", ", ".join(f"{t:.6f}" for t in opencv_times))
-    print(f"Ручной метод, медиана: {manual_time:.4f} с")
-    print(f"OpenCV, медиана: {opencv_time:.6f} с")
+    print(f"Ручной метод: {manual_time:.4f} с")
+    print(f"OpenCV: {opencv_time:.6f} с")
 
     manual_to_save = np.clip(np.rint(manual_result), 0, 255).astype(np.uint8)
     opencv_to_save = np.clip(np.rint(opencv_result), 0, 255).astype(np.uint8)
