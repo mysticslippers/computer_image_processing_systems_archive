@@ -1,0 +1,47 @@
+[
+  {
+    "input_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\test-videos\\mona-lisa.avi",
+    "output_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\outputs\\mona-lisa_tracked.avi",
+    "label": "Mona Lisa",
+    "width": 640,
+    "height": 360,
+    "source_fps": 29.97,
+    "reference_keypoints": 344,
+    "frames_processed": 558,
+    "frames_detected": 277,
+    "detection_rate": 0.496415770609319,
+    "processing_seconds": 52.624,
+    "processing_fps": 10.6,
+    "stopped_by_user": false
+  },
+  {
+    "input_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\test-videos\\mona-lisa-blur.avi",
+    "output_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\outputs\\mona-lisa-blur_tracked.avi",
+    "label": "Mona Lisa",
+    "width": 640,
+    "height": 360,
+    "source_fps": 29.97,
+    "reference_keypoints": 344,
+    "frames_processed": 558,
+    "frames_detected": 258,
+    "detection_rate": 0.46236559139784944,
+    "processing_seconds": 38.014,
+    "processing_fps": 14.68,
+    "stopped_by_user": false
+  },
+  {
+    "input_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\test-videos\\mona-lisa-blur-extra-credit.avi",
+    "output_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\outputs\\mona-lisa-blur-extra-credit_tracked.avi",
+    "label": "Mona Lisa",
+    "width": 640,
+    "height": 360,
+    "source_fps": 29.97,
+    "reference_keypoints": 343,
+    "frames_processed": 558,
+    "frames_detected": 250,
+    "detection_rate": 0.44802867383512546,
+    "processing_seconds": 36.029,
+    "processing_fps": 15.49,
+    "stopped_by_user": false
+  }
+]
