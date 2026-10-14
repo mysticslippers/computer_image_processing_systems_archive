@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import numpy as np
 from PIL import Image
 
@@ -19,7 +21,7 @@ def load_mask(path: str, image_shape: tuple[int, int]) -> np.ndarray:
         raise ValueError(f"Размер маски {mask.shape} не совпадает с размером изображения {image_shape}")
 
     return (mask >= 128).astype(np.float32)
-    
+
 
 def create_test_masks(image_shape: tuple[int, int]) -> dict[str, np.ndarray]:
     height, width = image_shape
@@ -41,3 +43,13 @@ def create_test_masks(image_shape: tuple[int, int]) -> dict[str, np.ndarray]:
         "ones": ones_mask,
         "mixed": mixed_mask,
     }
+
+
+def save_image(image: np.ndarray, path: str) -> None:
+    output_path = Path(path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    array = np.clip(image, 0.0, 1.0)
+    array = np.round(array * 255.0).astype(np.uint8)
+
+    Image.fromarray(array).save(output_path)
