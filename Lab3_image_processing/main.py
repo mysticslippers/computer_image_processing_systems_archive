@@ -20,3 +20,24 @@ def load_mask(path: str, image_shape: tuple[int, int]) -> np.ndarray:
 
     return (mask >= 128).astype(np.float32)
     
+
+def create_test_masks(image_shape: tuple[int, int]) -> dict[str, np.ndarray]:
+    height, width = image_shape
+
+    if height < 2 or width < 2:
+        raise ValueError("Размер изображения должен быть хотя бы 2×2")
+
+    zeros_mask = np.zeros(image_shape, dtype=np.float32)
+    ones_mask = np.ones(image_shape, dtype=np.float32)
+
+    mixed_mask = np.zeros(image_shape, dtype=np.float32)
+    mixed_mask[
+        height // 4:3 * height // 4,
+        width // 4:3 * width // 4
+    ] = 1.0
+
+    return {
+        "zeros": zeros_mask,
+        "ones": ones_mask,
+        "mixed": mixed_mask,
+    }
