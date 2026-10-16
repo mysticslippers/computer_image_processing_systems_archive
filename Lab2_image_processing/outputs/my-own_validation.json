@@ -1,0 +1,44 @@
+{
+  "input_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\test-videos\\my own.mp4",
+  "output_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\outputs\\my-own_tracked.mp4",
+  "reference_roi": [
+    85,
+    195,
+    595,
+    970
+  ],
+  "label": "Book",
+  "source_decoded_frames": 974,
+  "output_decoded_frames": 974,
+  "source_fps": 30.004292195118946,
+  "output_fps": 30.004,
+  "frame_shapes": [
+    [
+      1280,
+      720,
+      3
+    ]
+  ],
+  "source_duration_seconds": 32.462022222222224,
+  "output_duration_seconds": 32.462338354886015,
+  "frames_with_added_green_annotation": 974,
+  "min_added_green_pixels": 2926,
+  "frames_without_added_green_annotation": [],
+  "preview_frames": [
+    0,
+    176,
+    353,
+    442,
+    530,
+    619,
+    796,
+    973
+  ],
+  "checks": {
+    "frame_count_preserved": true,
+    "dimensions_preserved": true,
+    "fps_preserved_within_0_01": true,
+    "visible_annotations_match_statistics": true
+  },
+  "note": "Annotation presence is a continuity check, not a measure of corner accuracy."
+}
