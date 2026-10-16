@@ -1,0 +1,17 @@
+{
+  "input_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\test-videos\\my own.mp4",
+  "output_video": "C:\\Users\\zavoe\\PycharmProjects\\Lab2_image_processing\\outputs\\my-own_tracked.mp4",
+  "label": "Book",
+  "width": 720,
+  "height": 1280,
+  "source_fps": 30.004292195118946,
+  "reference_keypoints": 2001,
+  "frames_processed": 974,
+  "frames_detected": 974,
+  "frames_detected_by_sift": 974,
+  "frames_detected_by_optical_flow": 0,
+  "detection_rate": 1.0,
+  "processing_seconds": 172.108,
+  "processing_fps": 5.66,
+  "stopped_by_user": false
+}

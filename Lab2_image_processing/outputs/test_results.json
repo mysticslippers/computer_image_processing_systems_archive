@@ -9,11 +9,11 @@
     "reference_keypoints": 344,
     "frames_processed": 558,
     "frames_detected": 558,
-    "frames_detected_by_sift": 137,
-    "frames_detected_by_optical_flow": 421,
+    "frames_detected_by_sift": 232,
+    "frames_detected_by_optical_flow": 326,
     "detection_rate": 1.0,
-    "processing_seconds": 33.103,
-    "processing_fps": 16.86,
+    "processing_seconds": 41.683,
+    "processing_fps": 13.39,
     "stopped_by_user": false
   },
   {
@@ -26,11 +26,11 @@
     "reference_keypoints": 344,
     "frames_processed": 558,
     "frames_detected": 539,
-    "frames_detected_by_sift": 119,
-    "frames_detected_by_optical_flow": 420,
+    "frames_detected_by_sift": 118,
+    "frames_detected_by_optical_flow": 421,
     "detection_rate": 0.9659498207885304,
-    "processing_seconds": 29.977,
-    "processing_fps": 18.61,
+    "processing_seconds": 33.248,
+    "processing_fps": 16.78,
     "stopped_by_user": false
   },
   {
@@ -43,11 +43,11 @@
     "reference_keypoints": 343,
     "frames_processed": 558,
     "frames_detected": 530,
-    "frames_detected_by_sift": 212,
-    "frames_detected_by_optical_flow": 318,
+    "frames_detected_by_sift": 199,
+    "frames_detected_by_optical_flow": 331,
     "detection_rate": 0.9498207885304659,
-    "processing_seconds": 28.404,
-    "processing_fps": 19.65,
+    "processing_seconds": 30.79,
+    "processing_fps": 18.12,
     "stopped_by_user": false
   }
 ]
