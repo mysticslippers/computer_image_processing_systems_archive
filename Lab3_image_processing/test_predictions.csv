@@ -1,0 +1,101 @@
+file,candidate_label,observed_on,source,attribution,license,label,predicted_label,predicted_class,correct
+cat/01.jpg,cat,2026-11-12,https://www.inaturalist.org/photos/762985564,"(c) Texas Bird Family, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/02.jpg,cat,2026-10-02,https://www.inaturalist.org/photos/762952503,no rights reserved,cc0,0,0,cat,True
+cat/03.jpg,cat,2024-05-08,https://www.inaturalist.org/photos/762852340,no rights reserved,cc0,0,1,dog,False
+cat/04.jpg,cat,2026-08-31,https://www.inaturalist.org/photos/762669450,"(c) Jonathan Eisen, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/05.jpg,cat,2026-11-11,https://www.inaturalist.org/photos/762457501,"(c) David Pereira, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/06.jpg,cat,2026-03-07,https://www.inaturalist.org/photos/762410727,"(c) Tiago Carrapiço, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/07.jpg,cat,2026-11-11,https://www.inaturalist.org/photos/762295655,no rights reserved,cc0,0,0,cat,True
+cat/08.jpg,cat,2026-11-07,https://www.inaturalist.org/photos/762280367,"(c) Aiva Noringseth, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/09.jpg,cat,2026-11-10,https://www.inaturalist.org/photos/762199983,no rights reserved,cc0,0,0,cat,True
+cat/10.jpg,cat,2026-11-09,https://www.inaturalist.org/photos/762145604,"(c) Tia Offner, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/11.jpg,cat,2026-09-10,https://www.inaturalist.org/photos/762111005,"(c) Sarah Kurtis, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/12.jpg,cat,2026-11-09,https://www.inaturalist.org/photos/762084043,"(c) Wooded Creek Wanderer, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/13.jpg,cat,2026-11-10,https://www.inaturalist.org/photos/762046825,"(c) Slaven Kljucanin, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/14.jpg,cat,2026-11-10,https://www.inaturalist.org/photos/761995024,"(c) Jardim das Borboletas, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/15.jpg,cat,2026-11-09,https://www.inaturalist.org/photos/761755188,"(c) olmagon, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/16.jpg,cat,2026-11-09,https://www.inaturalist.org/photos/761732761,"(c) Kaden Slone, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/17.jpg,cat,2026-11-08,https://www.inaturalist.org/photos/761611544,"(c) Julie, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/18.jpg,cat,2026-11-09,https://www.inaturalist.org/photos/761538702,"(c) MIMI, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/19.jpg,cat,2026-11-08,https://www.inaturalist.org/photos/761493168,"(c) ieatfrogsandbugsanddirt, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/20.jpg,cat,2026-11-08,https://www.inaturalist.org/photos/761463119,"(c) miel00, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/21.jpg,cat,2026-11-08,https://www.inaturalist.org/photos/761181044,no rights reserved,cc0,0,1,dog,False
+cat/22.jpg,cat,2026-11-07,https://www.inaturalist.org/photos/760798572,"(c) Corey Stafford, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/23.jpg,cat,2026-11-07,https://www.inaturalist.org/photos/760763286,"(c) Cenaida, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/24.jpg,cat,2026-11-06,https://www.inaturalist.org/photos/760749690,"(c) Donsky, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/25.jpg,cat,2025-09-06,https://www.inaturalist.org/photos/760735326,"(c) Adam Nielsen, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/26.jpg,cat,2026-11-07,https://www.inaturalist.org/photos/760720019,"(c) 胡正恆(Jackson Hu), some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/27.jpg,cat,2026-11-06,https://www.inaturalist.org/photos/760646140,"(c) Irina Mitine, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/28.jpg,cat,2026-11-06,https://www.inaturalist.org/photos/760505829,no rights reserved,cc0,0,0,cat,True
+cat/29.jpg,cat,2026-11-06,https://www.inaturalist.org/photos/760318931,"(c) Pedro Jimenez-Mejias, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/30.jpg,cat,2026-10-23,https://www.inaturalist.org/photos/760062196,"(c) Alison Northup, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/31.jpg,cat,2026-11-04,https://www.inaturalist.org/photos/759884927,"(c) Nizar Jibrin, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/32.jpg,cat,2026-11-04,https://www.inaturalist.org/photos/759786527,"(c) zaneotic, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/33.jpg,cat,2026-11-04,https://www.inaturalist.org/photos/759638095,no rights reserved,cc0,0,1,dog,False
+cat/34.jpg,cat,2026-10-25,https://www.inaturalist.org/photos/759452048,"(c) Mark Clarke, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/35.jpg,cat,2026-11-01,https://www.inaturalist.org/photos/759161142,"(c) abidanimallover, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/36.jpg,cat,2026-11-03,https://www.inaturalist.org/photos/759240945,"(c) S.R., some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/37.jpg,cat,2026-10-24,https://www.inaturalist.org/photos/759151326,"(c) capacoscar, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/38.jpg,cat,2026-10-31,https://www.inaturalist.org/photos/759099735,"(c) Islam Galymzhanov, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/39.jpg,cat,2026-10-30,https://www.inaturalist.org/photos/759085400,"(c) Autobot Warrior Sunstreaker, some rights reserved (CC BY-SA)",cc-by-sa,0,0,cat,True
+cat/40.jpg,cat,2026-11-01,https://www.inaturalist.org/photos/759080365,"(c) jzfu, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/41.jpg,cat,2026-11-02,https://www.inaturalist.org/photos/759070365,"(c) toad-wife, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/42.jpg,cat,2026-10-31,https://www.inaturalist.org/photos/758927615,no rights reserved,cc0,0,0,cat,True
+cat/43.jpg,cat,2026-11-01,https://www.inaturalist.org/photos/758910727,"(c) Víctor Sarabia Sánchez, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/44.jpg,cat,2026-11-02,https://www.inaturalist.org/photos/758842862,no rights reserved,cc0,0,1,dog,False
+cat/45.jpg,cat,2026-09-19,https://www.inaturalist.org/photos/758763773,"(c) Tony, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/46.jpg,cat,2026-10-31,https://www.inaturalist.org/photos/758664632,"(c) Gabriel, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/47.jpg,cat,2026-11-01,https://www.inaturalist.org/photos/758660186,"(c) Chris Acree, some rights reserved (CC BY-SA)",cc-by-sa,0,1,dog,False
+cat/48.jpg,cat,2026-10-31,https://www.inaturalist.org/photos/758653750,"(c) Holly Hodges, some rights reserved (CC BY)",cc-by,0,0,cat,True
+cat/49.jpg,cat,2026-10-30,https://www.inaturalist.org/photos/758326885,"(c) Bobby McCabe, some rights reserved (CC BY)",cc-by,0,1,dog,False
+cat/50.jpg,cat,2026-11-01,https://www.inaturalist.org/photos/758265819,no rights reserved,cc0,0,0,cat,True
+dog/01.jpg,dog,2026-11-12,https://www.inaturalist.org/photos/762738772,"(c) MIMI, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/02.jpg,dog,2025-01-17,https://www.inaturalist.org/photos/762619746,"(c) cesar stastny, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/03.jpg,dog,2026-11-10,https://www.inaturalist.org/photos/762307123,"(c) Clive Freedman, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/04.jpg,dog,2026-11-10,https://www.inaturalist.org/photos/762106937,no rights reserved,cc0,1,0,cat,False
+dog/05.jpg,dog,2026-11-10,https://www.inaturalist.org/photos/762079918,"(c) Gabriel M. Rolim, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/06.jpg,dog,2026-11-10,https://www.inaturalist.org/photos/761969751,no rights reserved,cc0,1,1,dog,True
+dog/07.jpg,dog,2026-10-20,https://www.inaturalist.org/photos/761753422,"(c) Valentin Moser, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/08.jpg,dog,2026-11-09,https://www.inaturalist.org/photos/761667955,"(c) hadanie7, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/09.jpg,dog,2026-11-09,https://www.inaturalist.org/photos/761560139,"(c) gordana12345, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/10.jpg,dog,2026-11-09,https://www.inaturalist.org/photos/761559286,"(c) Anamarija, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/11.jpg,dog,2026-11-09,https://www.inaturalist.org/photos/761559239,"(c) Manu🎀👑❤️, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/12.jpg,dog,2026-11-09,https://www.inaturalist.org/photos/761558759,"(c) Stella, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/13.jpg,dog,2026-10-19,https://www.inaturalist.org/photos/761511792,"(c) Xochitl Zambrano, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/14.jpg,dog,2026-04-19,https://www.inaturalist.org/photos/761045574,"(c) Millie Brady, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/15.jpg,dog,2026-11-07,https://www.inaturalist.org/photos/760925234,"(c) Sinéad Tuttle-Lerner, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/16.jpg,dog,2026-10-11,https://www.inaturalist.org/photos/760870887,"(c) Luke Lythgoe, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/17.jpg,dog,2026-07-04,https://www.inaturalist.org/photos/760805605,"(c) Fyodor Pudovikov, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/18.jpg,dog,2026-11-07,https://www.inaturalist.org/photos/760721208,"(c) 胡正恆(Jackson Hu), some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/19.jpg,dog,2026-11-07,https://www.inaturalist.org/photos/760713856,"(c) petra_53ca, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/20.jpg,dog,2026-11-02,https://www.inaturalist.org/photos/760559373,"(c) soupysnakes, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/21.jpg,dog,2026-11-06,https://www.inaturalist.org/photos/760430317,"(c) Полина Полежанкина, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/22.jpg,dog,2026-03-21,https://www.inaturalist.org/photos/760078400,"(c) Antoine Thivolle, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/23.jpg,dog,2026-11-05,https://www.inaturalist.org/photos/759968447,"(c) ekamenar, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/24.jpg,dog,2026-11-05,https://www.inaturalist.org/photos/759936229,"(c) Srivatsan Ramkumar, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/25.jpg,dog,2026-11-03,https://www.inaturalist.org/photos/759877579,"(c) Alina Martin, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/26.jpg,dog,2026-10-28,https://www.inaturalist.org/photos/759825162,"(c) Mark Clarke, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/27.jpg,dog,2026-11-04,https://www.inaturalist.org/photos/759701959,"(c) zebedeugalinha, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/28.jpg,dog,2026-11-04,https://www.inaturalist.org/photos/759588633,"(c) Richard Littauer, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/29.jpg,dog,2026-11-02,https://www.inaturalist.org/photos/759078754,"(c) Autobot Warrior Sunstreaker, some rights reserved (CC BY-SA)",cc-by-sa,1,1,dog,True
+dog/30.jpg,dog,2026-11-01,https://www.inaturalist.org/photos/758910386,"(c) Víctor Sarabia Sánchez, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/31.jpg,dog,2026-10-31,https://www.inaturalist.org/photos/758664662,"(c) Gabriel, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/32.jpg,dog,2026-11-01,https://www.inaturalist.org/photos/758489845,"(c) novvictan, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/33.jpg,dog,2026-10-31,https://www.inaturalist.org/photos/758194216,"(c) Sandy Wolkenberg, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/34.jpg,dog,2026-10-31,https://www.inaturalist.org/photos/757819183,"(c) Sergey Basalaev, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/35.jpg,dog,2026-10-29,https://www.inaturalist.org/photos/757641574,"(c) silasyau, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/36.jpg,dog,2026-10-28,https://www.inaturalist.org/photos/756861431,"(c) Shinobu, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/37.jpg,dog,2026-10-27,https://www.inaturalist.org/photos/756701133,no rights reserved,cc0,1,1,dog,True
+dog/38.jpg,dog,2026-10-28,https://www.inaturalist.org/photos/756677048,"(c) Kate Senatskaya, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/39.jpg,dog,2026-10-27,https://www.inaturalist.org/photos/756623368,"(c) Kartikey Tiwari, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/40.jpg,dog,2026-10-16,https://www.inaturalist.org/photos/756201531,"(c) Cheongweei Gan, some rights reserved (CC BY)",cc-by,1,0,cat,False
+dog/41.jpg,dog,2026-02-17,https://www.inaturalist.org/photos/756189447,"(c) Zac Peterson, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/42.jpg,dog,2026-10-17,https://www.inaturalist.org/photos/756139929,"(c) Julie, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/43.jpg,dog,2026-05-08,https://www.inaturalist.org/photos/755932858,"(c) sucker69420, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/44.jpg,dog,2026-10-26,https://www.inaturalist.org/photos/755906298,"(c) 祐, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/45.jpg,dog,2026-10-26,https://www.inaturalist.org/photos/755881619,"(c) TonyT, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/46.jpg,dog,2026-10-19,https://www.inaturalist.org/photos/755440107,no rights reserved,cc0,1,1,dog,True
+dog/47.jpg,dog,2026-10-23,https://www.inaturalist.org/photos/755384230,"(c) Julie Hart, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/48.jpg,dog,2026-01-29,https://www.inaturalist.org/photos/755362152,"(c) Ewout Knoester, some rights reserved (CC BY-SA)",cc-by-sa,1,1,dog,True
+dog/49.jpg,dog,2026-10-24,https://www.inaturalist.org/photos/754991780,"(c) Marcello Mastroianni Albuquerque Araújo, some rights reserved (CC BY)",cc-by,1,1,dog,True
+dog/50.jpg,dog,2026-06-01,https://www.inaturalist.org/photos/754875698,"(c) Huey, some rights reserved (CC BY)",cc-by,1,1,dog,True
